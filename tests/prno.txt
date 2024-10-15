@@ -1,0 +1,9 @@
+* PRNO
+stopall
+pause 1
+sysclear
+archmode esame
+loadtext prno.obj
+ostailor null
+restart
+pause 2
